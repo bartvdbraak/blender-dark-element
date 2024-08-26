@@ -41,8 +41,5 @@
         "togglesw-off-color": "#72767d",
         "warning-color": "#faa81ad9"
     },
-    "compound": {
-        "--cpd-color-icon-accent-tertiary": "var(--cpd-color-blue-800)",
-        "--cpd-color-text-action-accent": "var(--cpd-color-blue-900)"
-    }
+    "compound": {}
 }
