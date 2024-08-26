@@ -1,6 +1,6 @@
 {
     "name": "Blender Dark",
-    "is_dark": false,
+    "is_dark": true,
     "fonts": {
         "faces": [
             {
