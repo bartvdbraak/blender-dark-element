@@ -4,17 +4,17 @@
     "fonts": {
         "faces": [
             {
-                "font-family": "Heebo",
+                "font-family": "Inter",
                 "src": [
                     {
-                        "url": "https://devtalk.blender.org/uploads/default/original/3X/6/6/6678a4d137b413aa0bc4365a2c43f93329171b6d.ttf",
+                        "url": "/fonts/Inter.ttf",
                         "format": "ttf"
                     }
                 ]
             }
         ],
-        "general": "'Heebo Regular'",
-        "monospace": "'Menlo Regular'"
+        "general": "Inter, sans",
+        "monospace": "'Courier New'"
     },
     "colors": {
         "accent": "#34568B",
